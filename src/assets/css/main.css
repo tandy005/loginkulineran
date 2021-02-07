@@ -1,0 +1,21 @@
+#app{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active {
+    font-weight: bold;
+}
+.btn-pesan{
+    background-color: #50BF66;
+}
+.cardproduk{
+    border-radius: 15px;
+}
+.card-img-top{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.img-fluid{
+    border-radius: 15px;
+}

@@ -1,0 +1,8 @@
+{
+    "pesanan" : "Jumlah Pesanan",
+    "keterangan" : "Keterangan",
+
+    "button_pesan" : "Pesan",
+    "successadd" : "Berhasil Menambah Ke Keranjang Pesananan",
+    "error" : "Jumlah Pesanan Harus Di Isi"
+}
